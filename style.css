@@ -1,0 +1,39 @@
+body {
+    background-image: url(150.jpg);
+    background-size: cover;
+}
+.l {
+    font-size: larger;
+
+}
+.lh {
+    padding-right: ;
+    font-size: xx-large;
+    background-image: url(66.jpg);
+    background-size: 600px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 20px; 
+    display: block;
+}
+.gg {
+    font-size: xx-large ;
+    font-weight: bolder;
+    color: yellow;
+}
+.pp {
+    color: black;
+    background-image: url(66.jpg);
+    background-size: cover;
+}
+.h-d {
+    font-size: larger;
+    color: white;
+
+}
+.g-g {
+    background-color: blue;
+    font-size: xx-large;
+}
